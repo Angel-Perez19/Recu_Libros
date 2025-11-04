@@ -47,6 +47,17 @@ namespace Modelos.Entidades
             return dataTables;
         }
 
+
+        public static DataTable MostrarLibros()
+        {
+            SqlConnection conexion = ConexionDB.conectar();
+            string consultaQuery = "Select * from Libro";
+            SqlDataAdapter add = new SqlDataAdapter(consultaQuery, conexion);
+            DataTable dataTables = new DataTable();
+            add.Fill(dataTables);
+            return dataTables;
+        }
+
         public int InsertarLibro()
         {
             SqlConnection conexion = ConexionDB.conectar();
@@ -89,5 +100,50 @@ namespace Modelos.Entidades
             add.Fill(dataTables);
             return dataTables;
         }
+
+        public bool EliminarLibro()
+        {
+            SqlConnection conexion = ConexionDB.conectar();
+            string comando = "DELETE FROM Libro WHERE codigoLibro = @CodigoLibro";
+            SqlCommand cmd = new SqlCommand(comando, conexion);
+            cmd.Parameters.AddWithValue("@CodigoLibro", codigoLibro);
+            if (cmd.ExecuteNonQuery() > 0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public bool ModificarLibro()
+        {
+            SqlConnection conexion = ConexionDB.conectar();
+            string comando = @"UPDATE Libro SET titulo = @Titulo, anioEdicion = @AnioEdicion, ISBN = @ISBN, codigoEditorial = @CodigoEditorial
+              WHERE codigoLibro = @CodigoLibro;";
+            SqlCommand cmd = new SqlCommand(comando, conexion);
+
+            cmd.Parameters.AddWithValue("@Titulo", Titulo);
+            cmd.Parameters.AddWithValue("@AnioEdicion", AnioEdicion);
+            cmd.Parameters.AddWithValue("@ISBN", ISBN1);
+            cmd.Parameters.AddWithValue("@CodigoEditorial", CodigoEditorial);
+            cmd.Parameters.AddWithValue("@CodigoLibro", CodigoLibro);
+
+            return cmd.ExecuteNonQuery() > 0;
+        }
+
+        public static DataTable BuscarLibroModif(string termino)
+        {
+            SqlConnection conexion = ConexionDB.conectar();
+            string consultaQuery = "SELECT * FROM Libro WHERE titulo LIKE @termino";
+            SqlCommand cmd = new SqlCommand(consultaQuery, conexion);
+            cmd.Parameters.AddWithValue("@termino", "%" + termino + "%");
+            SqlDataAdapter add = new SqlDataAdapter(cmd);
+            DataTable dataTables = new DataTable();
+            add.Fill(dataTables);
+            return dataTables;
+        }
+
     }
 }
