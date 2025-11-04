@@ -9,3 +9,12 @@ C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Deb
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.exe
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.pdb
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.exe.config
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\bin\Debug\System.Data.SqlClient.dll
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\bin\Debug\System.Data.SqlClient.xml
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmAgregarAutores.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmAgregarLibros.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmEliminarAutores.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmGestionAutores.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmGestionLibros.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmModificar_Eliminar_Libros.resources
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.csproj.Up2Date
