@@ -174,7 +174,7 @@
             this.Controls.Add(this.dgvVisor);
             this.Name = "frmAgregarAutores";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmAgregarAutores";
+            this.Text = "Agregar tu Autor Aqui";
             ((System.ComponentModel.ISupportInitialize)(this.dgvVisor)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

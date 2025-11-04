@@ -51,7 +51,7 @@ CONSTRAINT fkCodigoAutor FOREIGN KEY (codigoAutor) REFERENCES Autor(codigoAutor)
 CONSTRAINT fkCodigoLibro FOREIGN KEY (codigoLibro) REFERENCES Libro(codigoLibro) ON DELETE CASCADE);
 GO
 
-/*INNER JOINS*/
+/*INNER JOINS CON VISTAS*/
 CREATE VIEW Detalle_del_Autor_del_Libro AS
 SELECT Autor.nombre AS [Nombre del Autor],
 Libro.titulo AS [Libro],
@@ -71,6 +71,21 @@ Autor.fechaNacimiento AS [Fecha de Nacimiento del Autor]
 from Autor
 
 GO
+
+CREATE VIEW Libros_Vistazo AS
+SELECT Autor.nombre AS [Nombre del Autor],
+Libro.titulo AS [Titulo del Libro],
+Detalle_AutorLibro.Fecha AS [Fecha]
+FROM Detalle_AutorLibro
+FULL JOIN
+Libro ON Detalle_AutorLibro.codigoLibro = Libro.codigoLibro
+FULL JOIN
+Autor ON Detalle_AutorLibro.codigoAutor = Autor.codigoAutor
+GO
+
+
+
+
 
 
 

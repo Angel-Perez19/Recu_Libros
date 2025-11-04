@@ -60,5 +60,17 @@ namespace Modelos.Entidades
                 return false;
             }
         }
+
+        public static DataTable BuscarAutor(string termino)
+        {
+            SqlConnection conexion = ConexionDB.conectar();
+            string consultaQuery = "SELECT * FROM Autores_Lista WHERE [Nombre del Autor] LIKE @termino";
+            SqlCommand cmd = new SqlCommand(consultaQuery, conexion);
+            cmd.Parameters.AddWithValue("@termino", "%" + termino + "%");
+            SqlDataAdapter add = new SqlDataAdapter(cmd);
+            DataTable dataTables = new DataTable();
+            add.Fill(dataTables);
+            return dataTables;
+        }
     }
 }

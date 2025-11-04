@@ -82,7 +82,7 @@
             this.Controls.Add(this.btnAgregar);
             this.Name = "frmGestionAutores";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmGestionAutores";
+            this.Text = "Menu de Autores";
             this.ResumeLayout(false);
 
         }

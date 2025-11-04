@@ -38,7 +38,7 @@
             this.ClientSize = new System.Drawing.Size(999, 559);
             this.Name = "frmModificar_Eliminar_Libros";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmModificarLibros";
+            this.Text = "Modificar Libros";
             this.ResumeLayout(false);
 
         }

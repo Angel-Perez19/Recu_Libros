@@ -9,7 +9,7 @@ namespace Modelos.Conexion
 {
     public class ConexionDB
     {
-        public static string servidor = "(local)";
+        public static string servidor = "LAB03-OS-EQ010//SQLEXPRESS";
 
         public static string basededatos = "LIBROS_20240509";
 

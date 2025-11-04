@@ -59,5 +59,27 @@ namespace Vistas.Formularios
                 }
             }
         }
+
+        private void btnRegresar_Click(object sender, EventArgs e)
+        {
+            frmGestionAutores Main = new frmGestionAutores();
+            Main.Show();
+            Main.FormClosed += (s, args) => this.Close();
+            this.Hide();
+        }
+
+        private void txtBusqueda_TextChanged(object sender, EventArgs e)
+        {
+            //Busqueda de Autor
+            string termino = txtBusqueda.Text.Trim();
+            if (!string.IsNullOrEmpty(termino))
+            {
+                dgvVisor.DataSource = Autores.BuscarAutor(termino);
+            }
+            else
+            {
+                MostrarAutores();
+            }
+        }
     }
 }

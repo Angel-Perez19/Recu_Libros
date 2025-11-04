@@ -82,7 +82,7 @@
             this.Controls.Add(this.btnAgregar);
             this.Name = "frmGestionLibros";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmGestionLibros";
+            this.Text = "Menu de Libros";
             this.ResumeLayout(false);
 
         }

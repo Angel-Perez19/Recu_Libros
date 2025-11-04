@@ -3,11 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\modelos\\entidades\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\vistas\\formularios\\frmeliminarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmeliminarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmeliminarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,48 +27,44 @@
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmeliminarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\modelos\\entidades\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmmodificar_eliminar_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmodificar_eliminar_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\modelos\\entidades\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\entidades\\autores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmgestionlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestionlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmmodificar_eliminar_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmmodificar_eliminar_libros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmagregarautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestionautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|c:\\users\\omarp\\documents\\c# proyects\\recu krillin\\libros_20240509\\vistas\\formularios\\frmgestionlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmgestionlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmgestionlibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmbienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B04A6A-E69F-4489-8243-33CAEF95F31C}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47895041-F35C-4D75-8432-DB2A47ADC9D5}|Vistas\\Vistas.csproj|C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\vistas\\formularios\\frmbienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -87,32 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmEliminarAutores.cs",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEliminarAutores.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
-              "RelativeToolTip": "Vistas\\Formularios\\frmEliminarAutores.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAhwDEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T21:31:44.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "frmAgregarAutores.cs",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarAutores.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarAutores.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarAutores.cs",
-              "RelativeToolTip": "Vistas\\Formularios\\frmAgregarAutores.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T21:08:33.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "frmAgregarLibros.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarLibros.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarLibros.cs",
@@ -124,56 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Autores.cs",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Autores.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Autores.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Autores.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Autores.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwDIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:43:15.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmBienvenida.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmBienvenida.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmBienvenida.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:47:01.492Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmEliminarAutores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEliminarAutores.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmEliminarAutores.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:49:48.964Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "frmGestionAutores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionAutores.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestionAutores.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionAutores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmGestionAutores.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:54:37.712Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmAgregarAutores.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarAutores.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarAutores.cs",
@@ -185,15 +118,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs",
-              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
+              "DocumentIndex": 4,
+              "Title": "frmEliminarAutores.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEliminarAutores.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmEliminarAutores.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:49:07.595Z",
+              "WhenOpened": "2025-11-04T21:31:44.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmBienvenida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmBienvenida.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmBienvenida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:47:01.492Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autores.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Autores.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Autores.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Autores.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Autores.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:43:15.337Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -209,7 +168,95 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Modelos\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Modelos\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:55:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmEliminarAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmEliminarAutores.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmEliminarAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmEliminarAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:49:48.964Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAgregarLibros.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarLibros.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarLibros.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarLibros.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmAgregarLibros.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAcwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:56:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "frmGestionAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionAutores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestionAutores.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmGestionAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:54:37.712Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Libros.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Libros.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Libros.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Entidades\\Libros.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Libros.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwFMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:40:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmModificar_Eliminar_Libros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T19:49:07.595Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAgregarAutores.cs",
+              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarAutores.cs",
+              "RelativeDocumentMoniker": "Vistas\\Formularios\\frmAgregarAutores.cs",
+              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmAgregarAutores.cs",
+              "RelativeToolTip": "Vistas\\Formularios\\frmAgregarAutores.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAArwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T21:08:33.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "frmGestionAutores.cs",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionAutores.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestionAutores.cs",
@@ -222,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "frmGestionLibros.cs",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmGestionLibros.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmGestionLibros.cs",
@@ -235,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "frmBienvenida.cs",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmBienvenida.cs",
@@ -243,25 +290,11 @@
               "RelativeToolTip": "Vistas\\Formularios\\frmBienvenida.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:14:27.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T20:14:27.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Conexion\\ConexionDB.cs",
-              "RelativeDocumentMoniker": "Modelos\\Conexion\\ConexionDB.cs",
-              "ToolTip": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Modelos\\Conexion\\ConexionDB.cs",
-              "RelativeToolTip": "Modelos\\Conexion\\ConexionDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:55:18.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "frmBienvenida.Designer.cs",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Formularios\\frmBienvenida.Designer.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmBienvenida.Designer.cs",
@@ -269,12 +302,11 @@
               "RelativeToolTip": "Vistas\\Formularios\\frmBienvenida.Designer.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAAAFkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T20:45:46.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-04T20:45:46.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\omarp\\Documents\\C# Proyects\\Recu Krillin\\Libros_20240509\\Vistas\\Program.cs",
               "RelativeDocumentMoniker": "Vistas\\Program.cs",

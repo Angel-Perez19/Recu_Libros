@@ -46,7 +46,7 @@
             this.lblBienvenida.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.lblBienvenida.AutoSize = true;
             this.lblBienvenida.Font = new System.Drawing.Font("Bradley Hand ITC", 48F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblBienvenida.Location = new System.Drawing.Point(273, 28);
+            this.lblBienvenida.Location = new System.Drawing.Point(269, 9);
             this.lblBienvenida.Name = "lblBienvenida";
             this.lblBienvenida.Size = new System.Drawing.Size(710, 79);
             this.lblBienvenida.TabIndex = 0;
