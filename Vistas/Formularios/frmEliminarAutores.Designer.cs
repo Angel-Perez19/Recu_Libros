@@ -28,20 +28,66 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.dgvVisor = new System.Windows.Forms.DataGridView();
+            this.lblEliminarAutor = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvVisor)).BeginInit();
             this.SuspendLayout();
+            // 
+            // dgvVisor
+            // 
+            this.dgvVisor.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.dgvVisor.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvVisor.Location = new System.Drawing.Point(70, 255);
+            this.dgvVisor.Name = "dgvVisor";
+            this.dgvVisor.Size = new System.Drawing.Size(890, 298);
+            this.dgvVisor.TabIndex = 1;
+            this.dgvVisor.DoubleClick += new System.EventHandler(this.dgvVisor_DoubleClick);
+            // 
+            // lblEliminarAutor
+            // 
+            this.lblEliminarAutor.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.lblEliminarAutor.AutoSize = true;
+            this.lblEliminarAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEliminarAutor.Location = new System.Drawing.Point(354, 9);
+            this.lblEliminarAutor.Name = "lblEliminarAutor";
+            this.lblEliminarAutor.Size = new System.Drawing.Size(357, 37);
+            this.lblEliminarAutor.TabIndex = 2;
+            this.lblEliminarAutor.Text = "Eliminar a tu Autor Aqui";
+            // 
+            // label1
+            // 
+            this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(354, 64);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(377, 37);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Doble Click para Eliminar";
             // 
             // frmEliminarAutores
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 584);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblEliminarAutor);
+            this.Controls.Add(this.dgvVisor);
             this.Name = "frmEliminarAutores";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmEliminarAutores";
+            ((System.ComponentModel.ISupportInitialize)(this.dgvVisor)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
+
+        private System.Windows.Forms.DataGridView dgvVisor;
+        private System.Windows.Forms.Label lblEliminarAutor;
+        private System.Windows.Forms.Label label1;
     }
 }

@@ -144,5 +144,11 @@
   <ItemGroup>
     <None Include="Resources\16541581617924.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Modelos\Modelos.csproj">
+      <Project>{73b04a6a-e69f-4489-8243-33caef95f31c}</Project>
+      <Name>Modelos</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -18,3 +18,5 @@ C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Deb
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmGestionLibros.resources
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.Formularios.frmModificar_Eliminar_Libros.resources
 C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\obj\Debug\Vistas.csproj.Up2Date
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\bin\Debug\Modelos.dll
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Vistas\bin\Debug\Modelos.pdb

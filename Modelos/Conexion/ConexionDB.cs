@@ -11,7 +11,7 @@ namespace Modelos.Conexion
     {
         public static string servidor = "(local)";
 
-        public static string basededatos = "GE_IPES_DB";
+        public static string basededatos = "LIBROS_20240509";
 
         public static SqlConnection conectar()
         {

@@ -1,0 +1,9 @@
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\bin\Debug\Modelos.dll
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\bin\Debug\Modelos.pdb
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\obj\Debug\Modelos.csproj.Up2Date
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\obj\Debug\Modelos.dll
+C:\Users\omarp\Documents\C# Proyects\Recu Krillin\Libros_20240509\Modelos\obj\Debug\Modelos.pdb

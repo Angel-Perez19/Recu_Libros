@@ -97,9 +97,9 @@
             this.pbLibro.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pbLibro.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pbLibro.Image = global::Vistas.Properties.Resources.photo_1613322004370_cb676b3ff91b;
-            this.pbLibro.Location = new System.Drawing.Point(161, 74);
+            this.pbLibro.Location = new System.Drawing.Point(17, 15);
             this.pbLibro.Name = "pbLibro";
-            this.pbLibro.Size = new System.Drawing.Size(196, 191);
+            this.pbLibro.Size = new System.Drawing.Size(452, 299);
             this.pbLibro.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbLibro.TabIndex = 3;
             this.pbLibro.TabStop = false;
@@ -124,9 +124,9 @@
             this.pbAutores.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pbAutores.Cursor = System.Windows.Forms.Cursors.Hand;
             this.pbAutores.Image = global::Vistas.Properties.Resources._16541581617924;
-            this.pbAutores.Location = new System.Drawing.Point(151, 72);
+            this.pbAutores.Location = new System.Drawing.Point(21, 14);
             this.pbAutores.Name = "pbAutores";
-            this.pbAutores.Size = new System.Drawing.Size(196, 191);
+            this.pbAutores.Size = new System.Drawing.Size(497, 300);
             this.pbAutores.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pbAutores.TabIndex = 4;
             this.pbAutores.TabStop = false;
