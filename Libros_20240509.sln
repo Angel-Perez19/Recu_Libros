@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelos", "Modelos", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vistas", "Vistas", "{C629F0F4-FA3A-4DA0-892A-245AD5664C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{73B04A6A-E69F-4489-8243-33CAEF95F31C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vistas", "Vistas\Vistas.csproj", "{47895041-F35C-4D75-8432-DB2A47ADC9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B04A6A-E69F-4489-8243-33CAEF95F31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B04A6A-E69F-4489-8243-33CAEF95F31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B04A6A-E69F-4489-8243-33CAEF95F31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B04A6A-E69F-4489-8243-33CAEF95F31C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47895041-F35C-4D75-8432-DB2A47ADC9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47895041-F35C-4D75-8432-DB2A47ADC9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47895041-F35C-4D75-8432-DB2A47ADC9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47895041-F35C-4D75-8432-DB2A47ADC9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73B04A6A-E69F-4489-8243-33CAEF95F31C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{47895041-F35C-4D75-8432-DB2A47ADC9D5} = {C629F0F4-FA3A-4DA0-892A-245AD5664C44}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BAC491-AB38-4332-8764-F34368A83A3E}
+	EndGlobalSection
+EndGlobal
